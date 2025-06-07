@@ -1,0 +1,29 @@
+[[redirects]]
+  from = "/account/*"
+  to = "http://new-env.eba-6dsh89vt.eu-north-1.elasticbeanstalk.com/account/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/chatbot/*"
+  to = "http://new-env.eba-6dsh89vt.eu-north-1.elasticbeanstalk.com/chatbot/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/community/*"
+  to = "http://new-env.eba-6dsh89vt.eu-north-1.elasticbeanstalk.com/community/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/token/*"
+  to = "http://new-env.eba-6dsh89vt.eu-north-1.elasticbeanstalk.com/token/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/detect/*"
+  to = "http://new-env.eba-6dsh89vt.eu-north-1.elasticbeanstalk.com/detect/:splat"
+  status = 200
+  force = true
